@@ -1,4 +1,4 @@
 <?php
-  echo 1;exit;
-  //nihao
-  //wobuhao
+	$name = 'zxh';		
+	$phone = 18911688470;
+	$address = 'lichengnanguan';
