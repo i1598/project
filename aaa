@@ -1,5 +1,4 @@
 <?php
-  echo 1;exit;
-  //nihao
-  //wobuhao
-  //bug fixed 101
+	$name = 'zxh';		
+	$phone = 18911688470;
+	$address = 'lichengnanguan';
